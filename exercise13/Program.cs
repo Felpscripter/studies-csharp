@@ -36,3 +36,5 @@ bool drive = false;
 
 bool CanDrive = ageTwo <= 15 && drive;
 Console.WriteLine(CanDrive);
+
+Console.WriteLine("Bool! :)");
