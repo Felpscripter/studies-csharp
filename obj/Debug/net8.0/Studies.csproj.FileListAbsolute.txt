@@ -1,0 +1,14 @@
+/home/luizfelipe/Vídeos/CSharp/Studies/bin/Debug/net8.0/Studies
+/home/luizfelipe/Vídeos/CSharp/Studies/bin/Debug/net8.0/Studies.deps.json
+/home/luizfelipe/Vídeos/CSharp/Studies/bin/Debug/net8.0/Studies.runtimeconfig.json
+/home/luizfelipe/Vídeos/CSharp/Studies/bin/Debug/net8.0/Studies.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/bin/Debug/net8.0/Studies.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.GeneratedMSBuildEditorConfig.editorconfig
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.AssemblyInfoInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.AssemblyInfo.cs
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.csproj.CoreCompileInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/refint/Studies.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/Studies.genruntimeconfig.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/obj/Debug/net8.0/ref/Studies.dll
