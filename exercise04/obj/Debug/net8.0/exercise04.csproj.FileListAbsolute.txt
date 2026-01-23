@@ -1,0 +1,15 @@
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/bin/Debug/net8.0/exercise04
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/bin/Debug/net8.0/exercise04.deps.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/bin/Debug/net8.0/exercise04.runtimeconfig.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/bin/Debug/net8.0/exercise04.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/bin/Debug/net8.0/exercise04.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.GeneratedMSBuildEditorConfig.editorconfig
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.AssemblyInfoInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.AssemblyInfo.cs
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.csproj.CoreCompileInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.sourcelink.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/refint/exercise04.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/exercise04.genruntimeconfig.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise04/obj/Debug/net8.0/ref/exercise04.dll
