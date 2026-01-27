@@ -1,0 +1,15 @@
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/bin/Debug/net8.0/exercise24
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/bin/Debug/net8.0/exercise24.deps.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/bin/Debug/net8.0/exercise24.runtimeconfig.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/bin/Debug/net8.0/exercise24.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/bin/Debug/net8.0/exercise24.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.GeneratedMSBuildEditorConfig.editorconfig
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.AssemblyInfoInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.AssemblyInfo.cs
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.csproj.CoreCompileInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.sourcelink.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/refint/exercise24.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/exercise24.genruntimeconfig.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise24/obj/Debug/net8.0/ref/exercise24.dll
