@@ -1,0 +1,15 @@
+C:\Users\felps\studies-csharp\exercise19\bin\Debug\net10.0\exercise19.exe
+C:\Users\felps\studies-csharp\exercise19\bin\Debug\net10.0\exercise19.deps.json
+C:\Users\felps\studies-csharp\exercise19\bin\Debug\net10.0\exercise19.runtimeconfig.json
+C:\Users\felps\studies-csharp\exercise19\bin\Debug\net10.0\exercise19.dll
+C:\Users\felps\studies-csharp\exercise19\bin\Debug\net10.0\exercise19.pdb
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.AssemblyInfoInputs.cache
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.AssemblyInfo.cs
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.csproj.CoreCompileInputs.cache
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.sourcelink.json
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.dll
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\refint\exercise19.dll
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.pdb
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\exercise19.genruntimeconfig.cache
+C:\Users\felps\studies-csharp\exercise19\obj\Debug\net10.0\ref\exercise19.dll
