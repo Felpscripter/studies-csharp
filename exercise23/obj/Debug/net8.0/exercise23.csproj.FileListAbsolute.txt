@@ -1,0 +1,15 @@
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/bin/Debug/net8.0/exercise23
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/bin/Debug/net8.0/exercise23.deps.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/bin/Debug/net8.0/exercise23.runtimeconfig.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/bin/Debug/net8.0/exercise23.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/bin/Debug/net8.0/exercise23.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.GeneratedMSBuildEditorConfig.editorconfig
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.AssemblyInfoInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.AssemblyInfo.cs
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.csproj.CoreCompileInputs.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.sourcelink.json
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/refint/exercise23.dll
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.pdb
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/exercise23.genruntimeconfig.cache
+/home/luizfelipe/Vídeos/CSharp/Studies/exercise23/obj/Debug/net8.0/ref/exercise23.dll
