@@ -22,3 +22,22 @@ foreach(string w in words)
 {
     Console.WriteLine(w);
 }
+
+
+List<int> numTest = new List<int>{5, 10, 15, 20, 25};
+
+foreach (int nTest in numTest)
+{
+    Console.WriteLine(nTest);
+}
+
+numTest.Remove(15);
+
+foreach (int nTest2 in numTest)
+{
+    if (nTest2 >= 10)
+    {
+        Console.WriteLine(nTest2);
+    }
+}
+
